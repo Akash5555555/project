@@ -1,0 +1,11 @@
+.one {
+    height: 200px;
+    width: 100%;
+    background-color: rgb(204, 43, 43);
+}
+
+.childone {
+    height: 100px;
+    width: 50%;
+    background-color: blue;
+}
